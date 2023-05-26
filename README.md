@@ -13,14 +13,9 @@
 
 ## Skills
 - Python
-  - Progress: ██████░░░░░░ 50%
 - Matplotlib
-  - Progress: █████████░░░ 70% 
+- Seaborn
 - Pandas
-  - Progress: ██████████░░ 80%
 - NumPy
-  - Progress: █████████░░░ 70%
 - Scikit-learn
-  - Progress: █████████░░░ 70%
 - PyTorch
-  - Progress: ███░░░░░░░░░ 20%

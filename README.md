@@ -7,15 +7,14 @@
 ## Achievements
 - Winner of economics and mathematics olympiads at school time.
 - Completion of the DeepLearningSchool program.
-- Participation in two NLP hackathons.
+- Participation in two NLP hackathons: classification of bank reviews (supervised learning) and classification classification of email messages.
+- Participation in geo data hackathon - finding the optimal route for electric scooters.
 - Currently working on a geo data hackathon with a team.
 - Some experience in a Kaggle competition.
 
 ## Skills
-- Python
-- Matplotlib
-- Seaborn
-- Pandas
-- NumPy
-- Scikit-learn
-- PyTorch
+Python, Matplotlib, Seaborn, Pandas, NumPy, Scikit-learn, PyTorch.
+Basic knowledge in: Folium, Networkx, Scipy, Osmnx.
+
+## Projects
+- 

@@ -14,6 +14,7 @@
 
 ## Skills
 Python, Matplotlib, Seaborn, Pandas, NumPy, Scikit-learn, PyTorch.
+
 Basic knowledge in: Folium, Networkx, Scipy, Osmnx.
 
 ## Projects

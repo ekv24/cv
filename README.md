@@ -18,7 +18,19 @@ Python, Matplotlib, Seaborn, Pandas, NumPy, Scikit-learn, PyTorch.
 Basic knowledge in: Folium, Networkx, Scipy, Osmnx.
 
 ## Projects
-- #### Prediction of user churn. 
+- [_Prediction of user churn. _](https://github.com/ekv24/cv/blob/main/prediction_of_user_churn.ipynb)
 
 Project contains basic algorithms, ensemble of RandomForest, LinearRegression and CatBoost. 
-- 
+
+## Hackatons
+
+- [_Email Sorting Project_](https://github.com/IzyGolstein/Aeroclub_Hackathon)
+  -  NLP, Usupervised learning.
+  -  Preprocessing,  "Cross-over CatBoost" algorithm.
+- [_Optimal Electric Scooter Routing Project_](https://github.com/IzyGolstein/Whoosh_Hackathon)
+  - Geo-Data, hexes, GeoPandas, OpenStreetMap.
+  - Graphs, Dijkstra's algorithm.
+  - Recursive missing data filling algorithm based on deep trees
+- [_Bank Review Classification and Clustering_](https://github.com/ekv24/nlp1_hackaton_banks)
+  - Basic preprocessing.
+  - Generation features.  

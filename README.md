@@ -18,7 +18,7 @@ Python, Matplotlib, Seaborn, Pandas, NumPy, Scikit-learn, PyTorch.
 Basic knowledge in: Folium, Networkx, Scipy, Osmnx.
 
 ## Projects
-- [_Prediction of user churn. _](https://github.com/ekv24/cv/blob/main/prediction_of_user_churn.ipynb)
+- [_Prediction of user churn._](https://github.com/ekv24/cv/blob/main/prediction_of_user_churn.ipynb)
 
 Project contains basic algorithms, ensemble of RandomForest, LinearRegression and CatBoost. 
 
